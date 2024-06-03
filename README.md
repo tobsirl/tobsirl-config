@@ -8,4 +8,13 @@ Various Configurations
 
 ```bash
 Material Theme Icons
+Docker
+Kubernetes
+Go
+```
+
+### Theme
+
+```bash
+Material Theme Icons
 ```
