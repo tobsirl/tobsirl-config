@@ -18,3 +18,9 @@ Go
 ```bash
 Oceanic Next
 ```
+
+### Font
+
+```bash
+Fira Code
+```
