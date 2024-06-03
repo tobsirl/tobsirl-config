@@ -16,5 +16,5 @@ Go
 ### Theme
 
 ```bash
-Material Theme Icons
+Oceanic Next
 ```
