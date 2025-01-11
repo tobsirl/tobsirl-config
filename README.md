@@ -24,3 +24,7 @@ Oceanic Next
 ```bash
 Fira Code
 ```
+
+### Resources
+
+[Starship](https://starship.rs/)
