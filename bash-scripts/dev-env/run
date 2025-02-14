@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
 echo "Running dev-env/run script"
+script_dir=$(cd $(dirname "${BASH_SOURCE[0]}") && pwd)
