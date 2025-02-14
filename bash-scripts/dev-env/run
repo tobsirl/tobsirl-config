@@ -17,6 +17,14 @@ while [[ $# > 0 ]]; do
     shift
 done
 
+log() {
+    if [[ $dry == "1" ]]; then
+        echo "[DRY_RUN]: $@"
+    else
+        echo "$@"
+    fi
+}
+
 for script in "${scripts[@]}"; do
     if echo "$script" | grep -qv "$filter"; then
         echo "filtered: $filter -- $script"
