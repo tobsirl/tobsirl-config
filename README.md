@@ -25,6 +25,13 @@ Oceanic Next
 Fira Code
 ```
 
+### Terminal
+
+```bash
+# example
+chmod +x install.sh
+```
+
 ### Resources
 
 [Starship](https://starship.rs/)
