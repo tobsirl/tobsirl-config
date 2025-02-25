@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo "running zsh"
+
+# install zsh
+sudo apt-get install zsh -y
