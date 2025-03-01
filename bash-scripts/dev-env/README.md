@@ -17,3 +17,15 @@ sudo apt-get install jq
 {"type": "bar", "values": {"a": 1337, "b": 420}}
 {"type": "bar", "values": {"a": 111, "b": 222}}
 ```
+
+### Prettify logs
+
+```bash
+cat file.json | jq
+```
+
+### Compact json
+
+```bash
+cat file.json | jq -c
+```
