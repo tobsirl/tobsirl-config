@@ -7,3 +7,11 @@ Tmux is a terminal multiplexer. It allows you to create multiple terminal sessio
 ```bash
 sudo apt-get install tmux
 ```
+
+## Usage
+
+### Start a new session
+
+```bash
+tmux
+```
