@@ -117,6 +117,8 @@ alias ohmyzsh="cd ~/.oh-my-zsh"
 
 # edit global aws configuration
 alias awsconfig="code ~/.aws/config"
+# edit starship configuration
+alias starshipconfig="code ~/.config/starship.toml"
 
 
 export NVM_DIR="$HOME/.nvm"
