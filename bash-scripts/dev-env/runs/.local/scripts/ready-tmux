@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if [[ -x ".ready-tmux" ]]; then
+  ./.ready-tmux
+elif [[ -x "~/.ready-tmux" ]]; then
+  ~/.ready-tmux
+else
+  echo "No .ready-tmux file found in the current directory or in the home directory."
+  exit 1
+fi
+clear
